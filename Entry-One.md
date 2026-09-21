@@ -25,7 +25,6 @@ sound—or something I have not anticipated" (excerpt from brief)
 ## Brainstorming ideas
 - additional materials used to the installation to make the voice to visual (lights?) using arduino
 - Sensor for voice recording using Raspberry Pi... but would additional material such as a microphone
-## Reference aditional resources
 
 ## Plan for upcoming week 
 After meeting with client my team and I agreed that we will...
