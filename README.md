@@ -3,7 +3,7 @@
 
 ## Table of Contents
 - [Journal One](Entry-One.md)
-- [Journal two](#Journal-two.md)
+- [Journal two](Journal-two.md)
 - [Journal three](#Journal-three.md)
 - [Journal four](#Journal-four.md)
 - [Journal five](#Journal-five.md)
