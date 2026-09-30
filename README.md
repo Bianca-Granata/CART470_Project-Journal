@@ -2,6 +2,7 @@
 470 Project Journal on brief "A Song for My Mother: Materializing Voice"
 
 ## Table of Contents
+- [Living Learning Contract](CART470.pdf)
 - [Journal One](Entry-One.md)
 - [Journal two](Journal-two.md)
 - [Journal three](#Journal-three.md)
