@@ -15,6 +15,7 @@ internal length:
 
 <img width="428" height="301" alt="IMG_2662" src="https://github.com/user-attachments/assets/d4708ad4-7cb9-4f3c-97cd-898b51eb5687" />
 Two for enclosure opening - prototype on blender
+
 ## things we did:
 - each one came up with sketches for how the enclosure should look like
 - each came up with a 3D prototype of the model
