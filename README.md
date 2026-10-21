@@ -6,7 +6,7 @@
 - [Journal One](Entry-One.md)
 - [Journal two](Journal-two.md)
 - [Journal three](Journal-three.md)
-- [Journal four](#Journal-four.md)
+- [Journal four](Journal-four.md)
 - [Journal five](#Journal-five.md)
 - [Journal six](#Journal-six.md)
 - [Journal seven](#Journal-seven.md)
