@@ -10,6 +10,6 @@
 - [Journal five](Journal-five.md)
 - [Journal six](Journal-six.md)
 - [Journal seven](Journal-seven.md)
-- [Journal eight](#Journal-eight.md)
+- [Journal eight](Journal-eight.md)
 - [Journal nine](#Journal-nine.md)
 - [Journal ten](#Journal-ten.md)
